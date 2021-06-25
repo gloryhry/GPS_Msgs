@@ -1,0 +1,19 @@
+Header header
+
+string INSstatus
+string INSpostype
+float64 INSlatdeviation
+float64 INSlondeviation
+float64 INShgtdeviation
+float64 INSrolldeviation
+float64 INSpitchdeviation
+float64 INSyawdeviation
+float64 INSnorthveldeviation
+float64 INSeastveldeviation
+float64 INSupveldeviation
+
+string GPSpostype
+float64 GPSlatdeviation
+float64 GPSlondeviation
+float64 GPShgtdeviation
+

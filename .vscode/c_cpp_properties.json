@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/neousys/pioneer_challenge/ros/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/neousys/pioneer_challenge/ros/src/pioneer_stack/dataspeed_can/dataspeed_can_msg_filters/include",
+                "/home/neousys/pioneer_challenge/ros/src/pioneer_stack/dataspeed_can/dataspeed_can_msgs/include",
+                "/home/neousys/pioneer_challenge/ros/src/pioneer_stack/dataspeed_can/dataspeed_can_usb/include",
+                "/home/neousys/pioneer_challenge/ros/src/pioneer_stack/dbw_mkz_ros/dbw_mkz_can/include",
+                "/home/neousys/pioneer_challenge/ros/src/pioneer_stack/gps_driver/include",
+                "/home/neousys/pioneer_challenge/ros/src/pioneer_stack/path_planning_utilities/include",
+                "/home/neousys/pioneer_challenge/ros/src/pioneer_stack/pcd_read/include",
+                "/home/neousys/pioneer_challenge/ros/src/pioneer_stack/quintic_spline_controller/include",
+                "/home/neousys/pioneer_challenge/ros/src/pioneer_stack/radar_node/include",
+                "/home/neousys/pioneer_challenge/ros/src/pioneer_stack/lidar_driver/velodyne_driver/include",
+                "/home/neousys/pioneer_challenge/ros/src/pioneer_stack/lidar_driver/velodyne_pointcloud/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
